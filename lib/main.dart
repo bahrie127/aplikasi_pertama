@@ -32,7 +32,7 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         appBar: AppBar(
           title: const Text(
-            'Belajar Flutter',
+            'Belajar Flutter feature dua',
           ),
           centerTitle: true,
         ),
